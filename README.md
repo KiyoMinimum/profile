@@ -26,7 +26,7 @@ This repository contains information for the people who wants to get Hal Seki's 
 * デジタル庁 シニアエキスパート（シビックテック）
 * 神戸市 チーフ・イノベーション・オフィサー
 * 東京都 チーフデジタルサービスフェロー
-* 静岡県浜松市　フェロー
+* 静岡県浜松市　デジタル・スマートシティフェロー
 * 岡山県西粟倉村　最高情報戦略監(チーフ・インフォメーション・オフィサー)
 * 山口県 CIO補佐官
 * 香川県 かがわDX Labフェロー
